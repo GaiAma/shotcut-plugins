@@ -1,0 +1,10 @@
+width=1080
+height=1920
+sample_aspect_num=1
+sample_aspect_den=1
+display_aspect_num=100
+display_aspect_den=100
+progressive=1
+colorspace=709
+frame_rate_num=30024
+frame_rate_den=1000

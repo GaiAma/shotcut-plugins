@@ -6,6 +6,7 @@ IG: Landscape (1080x608)
 IG: Portrait (1080x1350)  
 IG: Square (1048x1048)  
 IG: Story & IGTV (1080x1920)  
+Sizes borrowed from https://later.com/blog/instagram-image-size/
 
 ## Installation
 1. Open Shotcut

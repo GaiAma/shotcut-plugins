@@ -11,6 +11,6 @@ Sizes borrowed from https://later.com/blog/instagram-image-size/
 ## Installation
 1. Open Shotcut
 2. Click on Settings > App Data Directory > Show
-3. Save presets into "profiles" folder
+3. Save presets into "profiles" folder (create if doesn't exist)
 4. Re-open Shotcut
 5. Find them in Settings > Video Mode > Custom

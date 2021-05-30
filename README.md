@@ -1,5 +1,8 @@
 # shotcut-plugins
-Presets for the free &amp; open source video editor Shotcut
+
+## Updated profiles (presets) can be found here https://gum.co/shotcut-presets
+
+Presets for the free & open source video editor Shotcut
 
 ## Presets:
 IG: Landscape (1080x608)  
